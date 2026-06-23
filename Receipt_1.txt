@@ -1,0 +1,9 @@
+**** DIGITAL MALL RECEIPT ****
+Order ID: 1
+Customer ID: 3
+Date: 2025-08-19
+
+Total Amount: ₹299152.0
+Payment Method: Card
+Payment Status: Paid
+**************
